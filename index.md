@@ -3,7 +3,7 @@ title: Programmierung 2
 # description: "{{ site.content.semester }}"
 layout: default
 ---
-"{{ site.content.semester }}"
+*Semester: {{ site.content.semester }}*
 # Syllabus
 Hier ist der erste Inhalt meiner GitHub Pages-Seite. 😊
 
