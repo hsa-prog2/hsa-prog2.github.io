@@ -1,7 +1,5 @@
 ---
 layout: default
-title: Programmierung 2
-description: "Programmierung 2 - Inhalte"
 ---
 
 # Syllabus
