@@ -1,5 +1,6 @@
 ---
 title: Programmierung 2
+description: {{ site.content.semester }}
 layout: default
 ---
 

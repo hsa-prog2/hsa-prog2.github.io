@@ -1,3 +1,5 @@
-#title: Programmierung 2
-#description: "Welcome to my website powered by GitHub Pages and the Cayman theme!"
 theme: jekyll-theme-cayman
+
+# Content
+content:
+  semester: Sommersemester 25
