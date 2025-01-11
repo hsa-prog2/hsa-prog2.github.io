@@ -2,4 +2,4 @@ theme: jekyll-theme-cayman
 
 # Content
 content:
-  semester: Sommersemester 25
+  semester: "Sommersemester 25"
