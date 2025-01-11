@@ -11,6 +11,7 @@ Hier ist der erste Inhalt meiner GitHub Pages-Seite. 😊
 xxx
 
 ## Plan
+
 | Thema               | xxx                  | Assignment         |
 |---------------------|----------------------|--------------------|
 |                     | -                    | Assignment 1       |
