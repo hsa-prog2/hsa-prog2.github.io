@@ -1,6 +1,6 @@
 ---
 title: Programmierung 2
-description: "{{ site.semester }}"
+description: "{{ site.content.semester }}"
 layout: default
 ---
 

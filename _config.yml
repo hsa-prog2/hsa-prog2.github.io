@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 
 # Content
-semester: "Sommersemester 25"
+content:
+  semester: "Sommersemester 25"
