@@ -1,29 +1,29 @@
 ---
 title: Programmierung 2
-description: "{{ site.content.semester }}"
+# description: "{{ site.content.semester }}"
 layout: default
 ---
-
+"{{ site.content.semester }}"
 # Syllabus
 Hier ist der erste Inhalt meiner GitHub Pages-Seite. 😊
 
 ## Kursbeschreibung
 xxx
 
-## Plan
+## Inhalte
 
-| Thema               | xxx                  | Assignment         |
-|---------------------|----------------------|--------------------|
-|                     | -                    | Assignment 1       |
-|                     | -                    | Assignment 2       |
-|                     | -                    | Assignment 3       |
-|                     | -                    | Assignment 4       |
-|                     | -                    | Assignment 5       |
-|                     | -                    | Assignment 6       |
-|                     | -                    | Assignment 7       |
-|                     | -                    | Assignment 8       |
-|                     | -                    | Assignment 9       |
-|                     | -                    | Assignment 10      |
-|                     | -                    | Assignment 11      |
-|                     | -                    | Abschlussbericht   |
-|                     | -                    | -                  |
+| Thema                  | xxx                  | Assignment         |
+|------------------------|----------------------|--------------------|
+| Maven / Git            | -                    | Assignment 1       |
+| Enums                  | -                    | Assignment 2       |
+| Vererbung              | -                    | Assignment 3       |
+| Interfaces             | -                    | Assignment 4       |
+| Generics               | -                    | Assignment 5       |
+| Collections            | -                    | Assignment 6       |
+| Exceptions             | -                    | Assignment 7       |
+| Lambda                 | -                    | Assignment 8       |
+| REST / Spring Boot (1) | -                    | Assignment 9       |
+| REST / Spring Boot (2) | -                    | Assignment 10      |
+|                        | -                    | Assignment 11      |
+|                        | -                    | Abschlussbericht   |
+|                        | -                    | -                  |
